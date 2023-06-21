@@ -64,7 +64,7 @@ some of docker commands:
 > docker build -f [folder path where we have docker file] -t [name for repository:tag]
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-some of docker commands:
+some of kubernetes commands:
 > kubectl cluster-info: it tells us all the cluster info
 
 > kubectl get node: it give the info of Kubenetes
